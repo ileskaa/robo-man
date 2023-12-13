@@ -1,4 +1,8 @@
 # Robo-Man
 A game created during Helsinki University's Advanced Course in Programming.
 
-Please note that to run this game, you must have Python 3 and pygame installed on your machine.
+To run this game, Python 3 and the pygame library must be installed on your machine.
+If Python and pip are already intalled on your computer, you can pygame by simply running
+```
+pip install pygame
+```
