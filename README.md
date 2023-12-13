@@ -5,4 +5,4 @@ To run this game, Python 3 and the pygame library must be installed on your mach
 If Python and pip are already intalled on your computer, you can install pygame simply by running
 ```
 pip install pygame
-```.
+```
