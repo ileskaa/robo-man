@@ -7,7 +7,7 @@ If Python and pip are already installed on your computer, you can install pygame
 pip install pygame
 ```
 
-To run the game, open a terminal inside the app folder, and type
+To run the game, open a terminal inside the app directory, and type
 ```
 python3 main.py
 ```
